@@ -1,0 +1,25 @@
+[ {
+  "threads" : 1,
+  "execTimeMillis" : 4.1334375
+}, {
+  "threads" : 2,
+  "execTimeMillis" : 3.999475
+}, {
+  "threads" : 4,
+  "execTimeMillis" : 5.2251875
+}, {
+  "threads" : 8,
+  "execTimeMillis" : 5.51429375
+}, {
+  "threads" : 16,
+  "execTimeMillis" : 6.3509616875
+}, {
+  "threads" : 32,
+  "execTimeMillis" : 5.81295825
+}, {
+  "threads" : 64,
+  "execTimeMillis" : 5.3141759375
+}, {
+  "threads" : 128,
+  "execTimeMillis" : 5.0854450625
+} ]
